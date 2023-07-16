@@ -1,2 +1,4 @@
 # dank-memer-gc
-A Dank Memer currency clone for Google Chat.
+Note: This is fan-made.
+
+A Dank Memer currency clone for Google Chat. Made in Apps Script.
